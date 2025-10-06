@@ -53,7 +53,7 @@ hint:
 hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
 hint: 'development'. The just-created branch can be renamed via this command:
 hint: 
-hint: 	git branch -m <name>
+hint: 	git branch -m <name> 061025
 */
 
 #include <iostream>
